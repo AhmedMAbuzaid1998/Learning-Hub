@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LHubWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1d9e9fc95501470033347abcac23b5de3f016a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+686379596a64daedd19b9e1c0ab1718e451f8d07")]
 [assembly: System.Reflection.AssemblyProductAttribute("LHubWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LHubWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

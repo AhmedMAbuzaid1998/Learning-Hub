@@ -4,11 +4,9 @@
     <img src="~/images/logo.png" alt="Logo" class="login-logo" />
     <div class="login-title">Login</div>
     <form asp-action="Login" method="post">
-        <label class="login-label" for="Email">Email</label>
         <input asp-for="Email" class="login-input" placeholder="example.email@gmail.com" />
         <span asp-validation-for="Email" class="text-danger"></span>
 
-        <label class="login-label" for="Password">Password</label>
         <input asp-for="Password" type="password" class="login-input" placeholder="Enter at least 8+ characters" />
         <span asp-validation-for="Password" class="text-danger"></span>
 
@@ -18,7 +16,7 @@
         }
 
         <div class="login-btns">
-            <a class="btn-login-link" href="@Url.Action("Register", "Account")">New User?<br />Sign Up</a>
+            <a class="btn-login-link" href="@Url.Action("Register", "Account")">New User? Sign Up</a>
             <button type="submit" class="btn-login">Sign in</button>
         </div>
     </form>

@@ -16,9 +16,12 @@ namespace LHubWebsite.Controllers
         [HttpPost]
         public async Task<IActionResult> Register(User user)
         {
+            Console.WriteLine($"ModelState.IsValid: {ModelState.IsValid}");
             if (ModelState.IsValid)
             {
-                if (await _regService.Register(user))
+                var result = await _regService.Register(user);
+                Console.WriteLine($"Registration result: {result}");
+                if (result)
                     return RedirectToAction("Login"); // Redirect on success
                 ModelState.AddModelError("", "Invalid data (username/email may exist)");
             }

@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

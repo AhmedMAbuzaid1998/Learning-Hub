@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1WOp67lqbC7lHDxeIyCQrGVGnxwMKkZD3F/TdU6Qbqw=",
+  "Hash": "Vc8PqbrSUXUas++O87sWy7TjVScYC5nkGY+FmJt8yno=",
   "Source": "LHubWebsite",
   "BasePath": "_content/LHubWebsite",
   "Mode": "Default",
@@ -73,11 +73,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "z1hfctzheo",
-      "Integrity": "6WudltlwAT6+Nw524GHFue+ypG5Z5jAR/56BhTPgNjI=",
+      "Fingerprint": "giolxsbxi5",
+      "Integrity": "qO8m6Ay/F1nKk8lqXKOQtZ0qiZ43l3N3PXDQMsaErmg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\css\\styles.css",
+      "SourceId": "LHubWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\",
+      "BasePath": "_content/LHubWebsite",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6xunbr74cb",
+      "Integrity": "tlyLqAMQf1+gTnZEQvnAko2oPXlO2hr/zbnr1UOEsyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\favicon.ico",
@@ -115,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4fomeiaxo1",
-      "Integrity": "IFuvNODU9EBcQpHB5T9VBm+6thXiTNuTU/YHoBQ9nHA=",
+      "Fingerprint": "npjzbe48qn",
+      "Integrity": "dY5DroCmVa6GPzETJkGEmJqFUgWzge3sO26uI69MS48=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
@@ -1352,7 +1373,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3917"
+          "Value": "4055"
         },
         {
           "Name": "Content-Type",
@@ -1360,11 +1381,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6WudltlwAT6+Nw524GHFue+ypG5Z5jAR/56BhTPgNjI=\""
+          "Value": "\"qO8m6Ay/F1nKk8lqXKOQtZ0qiZ43l3N3PXDQMsaErmg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 20:51:36 GMT"
+          "Value": "Sat, 10 May 2025 09:43:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1374,12 +1395,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6WudltlwAT6+Nw524GHFue+ypG5Z5jAR/56BhTPgNjI="
+          "Value": "sha256-qO8m6Ay/F1nKk8lqXKOQtZ0qiZ43l3N3PXDQMsaErmg="
         }
       ]
     },
     {
-      "Route": "css/site.z1hfctzheo.css",
+      "Route": "css/site.giolxsbxi5.css",
       "AssetFile": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1389,7 +1410,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3917"
+          "Value": "4055"
         },
         {
           "Name": "Content-Type",
@@ -1397,11 +1418,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6WudltlwAT6+Nw524GHFue+ypG5Z5jAR/56BhTPgNjI=\""
+          "Value": "\"qO8m6Ay/F1nKk8lqXKOQtZ0qiZ43l3N3PXDQMsaErmg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 20:51:36 GMT"
+          "Value": "Sat, 10 May 2025 09:43:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1411,7 +1432,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z1hfctzheo"
+          "Value": "giolxsbxi5"
         },
         {
           "Name": "label",
@@ -1419,7 +1440,89 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6WudltlwAT6+Nw524GHFue+ypG5Z5jAR/56BhTPgNjI="
+          "Value": "sha256-qO8m6Ay/F1nKk8lqXKOQtZ0qiZ43l3N3PXDQMsaErmg="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.6xunbr74cb.css",
+      "AssetFile": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tlyLqAMQf1+gTnZEQvnAko2oPXlO2hr/zbnr1UOEsyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 11:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6xunbr74cb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tlyLqAMQf1+gTnZEQvnAko2oPXlO2hr/zbnr1UOEsyE="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tlyLqAMQf1+gTnZEQvnAko2oPXlO2hr/zbnr1UOEsyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 11:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tlyLqAMQf1+gTnZEQvnAko2oPXlO2hr/zbnr1UOEsyE="
         }
       ]
     },
@@ -1506,7 +1609,7 @@
       ]
     },
     {
-      "Route": "images/logo.4fomeiaxo1.png",
+      "Route": "images/logo.npjzbe48qn.png",
       "AssetFile": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\images\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1516,7 +1619,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "410928"
+          "Value": "14476"
         },
         {
           "Name": "Content-Type",
@@ -1524,11 +1627,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IFuvNODU9EBcQpHB5T9VBm+6thXiTNuTU/YHoBQ9nHA=\""
+          "Value": "\"dY5DroCmVa6GPzETJkGEmJqFUgWzge3sO26uI69MS48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:33:29 GMT"
+          "Value": "Sat, 10 May 2025 09:46:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1538,7 +1641,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4fomeiaxo1"
+          "Value": "npjzbe48qn"
         },
         {
           "Name": "label",
@@ -1546,7 +1649,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IFuvNODU9EBcQpHB5T9VBm+6thXiTNuTU/YHoBQ9nHA="
+          "Value": "sha256-dY5DroCmVa6GPzETJkGEmJqFUgWzge3sO26uI69MS48="
         }
       ]
     },
@@ -1561,7 +1664,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "410928"
+          "Value": "14476"
         },
         {
           "Name": "Content-Type",
@@ -1569,11 +1672,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IFuvNODU9EBcQpHB5T9VBm+6thXiTNuTU/YHoBQ9nHA=\""
+          "Value": "\"dY5DroCmVa6GPzETJkGEmJqFUgWzge3sO26uI69MS48=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 21:33:29 GMT"
+          "Value": "Sat, 10 May 2025 09:46:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1583,7 +1686,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IFuvNODU9EBcQpHB5T9VBm+6thXiTNuTU/YHoBQ9nHA="
+          "Value": "sha256-dY5DroCmVa6GPzETJkGEmJqFUgWzge3sO26uI69MS48="
         }
       ]
     },
@@ -1692,7 +1795,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 16:19:53 GMT"
+          "Value": "Sat, 10 May 2025 12:01:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1729,7 +1832,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 16:19:53 GMT"
+          "Value": "Sat, 10 May 2025 12:01:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1774,7 +1877,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 16:19:53 GMT"
+          "Value": "Sat, 10 May 2025 12:01:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1819,7 +1922,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 16:19:53 GMT"
+          "Value": "Sat, 10 May 2025 12:01:43 GMT"
         },
         {
           "Name": "Cache-Control",

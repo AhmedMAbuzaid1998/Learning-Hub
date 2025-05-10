@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,12 +11,36 @@
       "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|solutionrelative:lhubwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DC8DFEE-6BAB-4851-9185-D4AC4DA9D317}|LHubWebsite\\LHubWebsite.csproj|e:\\testing\\iti\\6_qa\\workshop\\baseline 2\\group-3-learning-hub\\lh_code\\lh_login\\lhubwebsite\\lhubwebsite\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -102,7 +110,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
+              "Title": "styles.css",
+              "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "LHubWebsite\\wwwroot\\css\\styles.css",
+              "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "LHubWebsite\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAAAPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-10T10:40:02.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LHubWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LHubWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T10:28:45.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationService.cs",
+              "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Services\\RegistrationService.cs",
+              "RelativeDocumentMoniker": "LHubWebsite\\Services\\RegistrationService.cs",
+              "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Services\\RegistrationService.cs",
+              "RelativeToolTip": "LHubWebsite\\Services\\RegistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:57:57.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LHubWebsite\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LHubWebsite\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T16:00:44.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LHubWebsite\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LHubWebsite\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T15:43:53.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LHubWebsite\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LHubWebsite\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAANgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-06T16:01:21.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LHubWebsite\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LHubWebsite\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T13:10:04.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "LHubWebsite\\Views\\_ViewStart.cshtml",
@@ -114,81 +209,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AccountController.cs",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "LHubWebsite\\Controllers\\AccountController.cs",
               "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Controllers\\AccountController.cs",
               "RelativeToolTip": "LHubWebsite\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T15:59:30.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Models\\User.cs",
               "RelativeDocumentMoniker": "LHubWebsite\\Models\\User.cs",
               "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Models\\User.cs",
               "RelativeToolTip": "LHubWebsite\\Models\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T15:53:10.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegistrationService.cs",
-              "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Services\\RegistrationService.cs",
-              "RelativeDocumentMoniker": "LHubWebsite\\Services\\RegistrationService.cs",
-              "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Services\\RegistrationService.cs*",
-              "RelativeToolTip": "LHubWebsite\\Services\\RegistrationService.cs*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAMwCIAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:57:57.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "LHubWebsite\\Views\\Account\\Register.cshtml",
-              "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "LHubWebsite\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T16:00:44.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "LHubWebsite\\Views\\Account\\Login.cshtml",
-              "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "LHubWebsite\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-09T15:43:53.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "LHubWebsite\\wwwroot\\css\\site.css",
-              "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "LHubWebsite\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-06T16:01:21.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "20250506160345_InitialCreate.Designer.cs",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Migrations\\20250506160345_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "LHubWebsite\\Migrations\\20250506160345_InitialCreate.Designer.cs",
@@ -200,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "LHubWebsite\\Models\\LoginViewModel.cs",
@@ -213,18 +258,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "LHubWebsite\\Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "LHubWebsite\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-09T13:10:04.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Program.cs",
               "RelativeDocumentMoniker": "LHubWebsite\\Program.cs",
@@ -236,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Error.cshtml",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "LHubWebsite\\Views\\Shared\\Error.cshtml",
@@ -248,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "LHubWebsite\\Data\\AppDbContext.cs",
@@ -260,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "LHubWebsite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -272,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "site.js",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "LHubWebsite\\wwwroot\\js\\site.js",
@@ -284,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "LHubWebsite\\Properties\\launchSettings.json",
@@ -296,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "LHubWebsite\\Views\\Shared\\_Layout.cshtml",
@@ -308,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LHubWebsite\\Controllers\\HomeController.cs",
@@ -320,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "20250506160345_InitialCreate.cs",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Migrations\\20250506160345_InitialCreate.cs",
               "RelativeDocumentMoniker": "LHubWebsite\\Migrations\\20250506160345_InitialCreate.cs",
@@ -332,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "20250506162642_UpdateUserTableStructure.cs",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\Migrations\\20250506162642_UpdateUserTableStructure.cs",
               "RelativeDocumentMoniker": "LHubWebsite\\Migrations\\20250506162642_UpdateUserTableStructure.cs",
@@ -344,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\appsettings.json",
               "RelativeDocumentMoniker": "LHubWebsite\\appsettings.json",
