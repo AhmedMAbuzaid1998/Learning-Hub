@@ -15,7 +15,7 @@ namespace LHubWebsite.Controllers
 
         public IActionResult Index()
         {
-            return RedirectToAction("Register", "Account");
+            return View();
         }
 
         public IActionResult Privacy()

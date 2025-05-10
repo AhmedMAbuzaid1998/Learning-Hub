@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using LHubWebsite.Data;
+using LHubWebsite.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,6 +28,7 @@ app.UseEndpoints(endpoints =>
 
 app.UseAuthorization();
 
+// Default route: open registration page first
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Account}/{action=Register}/{id?}");

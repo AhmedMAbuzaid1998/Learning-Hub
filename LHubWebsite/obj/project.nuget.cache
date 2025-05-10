@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3jIGvfyHUYw=",
+  "dgSpecHash": "RJaQt054VrU=",
   "success": true,
-  "projectFilePath": "E:\\testing\\iti\\6_QA\\workshop\\new_repo\\Group-3-Learning-hub-dev\\LH_CODE\\LHubWebsite\\LHubWebsite\\LHubWebsite.csproj",
+  "projectFilePath": "E:\\testing\\iti\\6_QA\\workshop\\baseline 2\\Group-3-Learning-hub\\LH_CODE\\LH_LOGIN\\LHubWebsite\\LHubWebsite\\LHubWebsite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmed Abuzaid\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Ahmed Abuzaid\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

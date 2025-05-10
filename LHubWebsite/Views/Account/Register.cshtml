@@ -1,4 +1,4 @@
-﻿@model User
+﻿@model LHubWebsite.Models.User
 @{
     ViewData["Title"] = "Sign Up";
     Layout = "_Layout";
@@ -17,20 +17,29 @@
 
         <form asp-action="Register" method="post" class="signup-form">
             <div class="form-group">
-                <label asp-for="username">Username</label>
-                <input asp-for="username" class="form-control" placeholder="Enter username" />
+                <label asp-for="username" class="sr-only"></label>
+                <div class="input-icon">
+                    <span class="icon">&#128100;</span>
+                    <input asp-for="username" class="form-control" placeholder="Username" />
+                </div>
                 <span asp-validation-for="username" class="text-danger">Required</span>
             </div>
 
             <div class="form-group">
-                <label asp-for="email">What is your e-mail?</label>
-                <input asp-for="email" class="form-control" placeholder="Enter email" />
+                <label asp-for="email" class="sr-only"></label>
+                <div class="input-icon">
+                    <span class="icon">&#9993;</span>
+                    <input asp-for="email" class="form-control" placeholder="What is your e-mail?" />
+                </div>
                 <span asp-validation-for="email" class="text-danger">Required</span>
             </div>
 
             <div class="form-group">
-                <label asp-for="password">Enter your password</label>
-                <input asp-for="password" type="password" class="form-control" placeholder="Create password" />
+                <label asp-for="password" class="sr-only"></label>
+                <div class="input-icon">
+                    <span class="icon">&#128274;</span>
+                    <input asp-for="password" type="password" class="form-control" placeholder="Enter your password" />
+                </div>
                 <span asp-validation-for="password" class="text-danger">Required</span>
             </div>
 
@@ -45,3 +54,7 @@
         </form>
     </div>
 </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,16 +1,20 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using LHubWebsite.Models;
 
-public class AppDbContext : DbContext
+namespace LHubWebsite.Data
 {
-    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
-
-    public DbSet<User> Users { get; set; }  // Maps to the "Users" table
-
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    public class AppDbContext : DbContext
     {
-        modelBuilder.Entity<User>()
-            .ToTable("Users")  // Explicit table name
-            .Property(u => u.user_id)
-            .HasDefaultValueSql("NEWID()");  // Auto-GUID
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+
+        public DbSet<User> Users { get; set; }  // Maps to the "Users" table
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<User>()
+                .ToTable("Users")  // Explicit table name
+                .Property(u => u.user_id)
+                .HasDefaultValueSql("NEWID()");  // Auto-GUID
+        }
     }
 }
